@@ -1,6 +1,6 @@
 ![Header](https://github.com/kingsiberia/kingsiberia/blob/main/assets/logook.png)
 
-## I'm a beginner QA-engineer!
+## Hello! My name is Dasha and I'm a beginner QA-engineer!
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-6D7B8D?style=flat-square&logo=Telegram&logoColor=3090C7)](https://t.me/kingsiberia)
